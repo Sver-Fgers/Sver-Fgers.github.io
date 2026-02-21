@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/00-inbox/contact-me/","created":"2026-02-21T16:40:36.626+01:00"}
 ---
 
+<< [[02 Pointers/Digital Garden Launchpad\|Digital Garden Launchpad]] 
+\>> [[test\|test]]
+
+---
 Use the form below to contact me. If you have any questions or requests, don't hesitate to send them over!
 
 ```html

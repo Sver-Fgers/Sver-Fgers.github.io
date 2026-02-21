@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-pointers/digital-garden-launchpad/","tags":["intention/process","gardenEntry"],"created":"2026-02-15T18:39:43.931+01:00"}
+{"dg-publish":true,"permalink":"/02-pointers/digital-garden-launchpad/","pinned":true,"tags":["gardenEntry"],"created":"2026-02-15T18:39:43.931+01:00"}
 ---
 
+#intention/process 
+
+---
 # Welcome
 
 This is my public knowledge space.

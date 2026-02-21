@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/00-inbox/contact-me/","created":"2026-02-21T16:40:36.626+01:00"}
+{"dg-publish":true,"permalink":"/00-inbox/contact-me/","tags":["#keyword/digital-garden/tweaks"],"created":"2026-02-21T16:40:36.626+01:00"}
 ---
 
-tags:: #keywords/digital-garden/tweaks
-
-<< [[02 Pointers/Digital Garden Launchpad\|Launchpad🏠️]] - [[test\|test]] \>> 
+Navigate to :: [[02 Pointers/Digital Garden Launchpad\|Launchpad🏠️]]
+Related note:: [[test\|test]]
 
 ---
 Use the form below to contact me. If you have any questions or requests, don't hesitate to send them over!

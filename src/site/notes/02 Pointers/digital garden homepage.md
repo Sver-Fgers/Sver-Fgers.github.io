@@ -8,6 +8,10 @@
 ## Welcome
 This is my public knowledge space.
 
+Welcome to my website, a platform that reflects my philosophy about life and serves as a personal portfolio.
+
+This site is a personal digital space, a space for me to think publicly, explore and document ideas as they grow. It functions both as a digital garden and a blogging platform.
+
 ## Choose a path
 - [[Learning Hub\|Learning Hub]]
 - [[Knowledge Map\|Knowledge Map]]

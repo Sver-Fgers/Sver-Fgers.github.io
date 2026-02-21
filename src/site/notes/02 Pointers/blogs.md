@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pointers/blogs/","created":"2026-02-21T17:07:10.879+01:00"}
+{"dg-publish":true,"dg-permalink":"🌿 Welcome to my blog homepage","permalink":"/🌿 Welcome to my blog homepage/","created":"2026-02-21T17:07:10.879+01:00"}
 ---
 
 >[!example]- [[02 Pointers/Digital Garden Launchpad\|Back to launchpad]] or collapse for more info 👉️ 

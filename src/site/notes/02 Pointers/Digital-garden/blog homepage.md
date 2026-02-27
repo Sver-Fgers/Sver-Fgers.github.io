@@ -10,7 +10,6 @@ This is where I unpack the thoughts, reflections, and intriguing ideas I’ve sp
 - series 1
 - series 2
 - series 3
-
 ## recently released 
 ---
 
@@ -18,7 +17,7 @@ This is where I unpack the thoughts, reflections, and intriguing ideas I’ve sp
 ---
 - blog index
 - blog archive
-P
+
 ## Pointers
 ---
 [list2tab]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Homepage","permalink":"/Homepage/","title":"digital garden homepage","pinned":true,"tags":["gardenEntry"],"created":"2026-02-15T18:39:43.931+01:00"}
+{"dg-publish":true,"dg-permalink":"Homepage","permalink":"/Homepage/","title":"digital garden homepage","pinned":true,"tags":["gardenEntry"],"created":"2026-04-06T10:01:55.454+01:00"}
 ---
 
 
@@ -47,7 +47,7 @@ What I am actively studying, questioning, or struggling with.
 → [[Learning Hub\|Learning Hub]]
 
 Examples:
-- [[Embedded Systems\|Embedded Systems]]
+- [[04 Library/Books/embedded systems architecture\|embedded systems architecture]]
 - [[Logic\|Logic]]
 - [[C++\|C++]]
 

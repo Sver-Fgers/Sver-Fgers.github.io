@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-pointers/digital-garden/blog-homepage/","created":"2026-02-21T17:07:10.879+01:00"}
+{"dg-publish":true,"permalink":"/00-pointers/digital-garden/blog-homepage/","created":"2026-04-06T10:01:55.455+01:00"}
 ---
 
 🌿 Welcome to my blog homepage

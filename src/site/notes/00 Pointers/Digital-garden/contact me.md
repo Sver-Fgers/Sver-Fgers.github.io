@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-pointers/digital-garden/contact-me/","tags":["maturity/teenager"],"created":"2026-02-21T16:40:36.626+01:00"}
+{"dg-publish":true,"permalink":"/00-pointers/digital-garden/contact-me/","tags":["dg-maturity/teenager"],"created":"2026-04-06T10:01:55.460+01:00"}
 ---
 
 ## A few quick notes to save us both time
@@ -20,7 +20,7 @@ You can find me elsewhere online:
 
 ----
 ## Email
-For thoughtful inquiries reach out [[02 Library/Digital-Garden/leave a feedback\|here]]
+For thoughtful inquiries reach out [[04 Library/Digital-Garden/leave a feedback\|here]]
 
 ---
 
@@ -34,6 +34,6 @@ This space is growing, and you are welcome to walk through it.
 
 ---
 >[!example]- [[00 Pointers/Digital-garden/🏴 ImagineBlack\|Back to launchpad]] or expand for more info 👉️ 
->- type:: #type/note
+>- type:: #dg-note-type/auxiliary
 >- keywords::  
 >- related-note:: 
